@@ -2,7 +2,7 @@
 
 This project analyzes city-wide electricity consumption patterns and predicts next-day demand using weather conditions, events, and zone-based data. It was developed as part of my Data Science Internship at IBI.
 
-#How to Generate / Load the Dataset:#
+*How to Generate / Load the Dataset:*
 
 Run first.py to generate a synthetic dataset for 365 days across multiple city zones.
 The dataset includes:
